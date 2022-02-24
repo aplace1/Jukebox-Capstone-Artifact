@@ -1,0 +1,6 @@
+# Concepts Directory.
+concepts/
+
+# Files to exclude.
+*.class
+*.jar
