@@ -38,6 +38,7 @@ connection string.
 
 MongoDB Scheme:
 
+Note: 'genre' determines the cover art for a song.
 ```json
 {
    "id"     : 0,
@@ -45,7 +46,6 @@ MongoDB Scheme:
    "song"   : "title of song",
    "genre"  : "Rock"
 }
-// Note: 'genre' determines the cover art for a song.
 ```
 
 
